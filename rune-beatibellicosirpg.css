@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'rune-beatibellicosirpg';
-  src:  url('fonts/rune-beatibellicosirpg.eo');
-  src:  url('fonts/rune-beatibellicosirpg.eo') format('embedded-opentype'),
+  src:  url('fonts/rune-beatibellicosirpg.eot');
+  src:  url('fonts/rune-beatibellicosirpg.eot') format('embedded-opentype'),
     url('fonts/rune-beatibellicosirpg.ttf') format('truetype'),
     url('fonts/rune-beatibellicosirpg.woff') format('woff'),
     url('fonts/rune-beatibellicosirpg.svg') format('svg');
